@@ -1,4 +1,4 @@
-## Hi there 👋
+Howdy-do! If you like my spark, visit my [ko-fi](https://ko-fi.com/renhojoo); and if you want to make projects with me, let's be friends!
 
 <!--
 **RenHojoo/RenHojoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
